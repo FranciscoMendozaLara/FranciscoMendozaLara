@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranciscoMendozaLara
 - 👀 I’m interested in Data Science + Mathematics
-- 🌱 I’m currently learning how to build furniture
+- 🌱 I’m currently learning the basics of music theory
 - 💞️ I’m looking to collaborate on any science project
 - 📫 francisco.mendoza.lara@gmail.com
 
